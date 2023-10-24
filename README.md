@@ -1,9 +1,9 @@
 # Automatic Chicken Feeder
 
 Collaborators:
-- [Tesfamichael Mengste]("tesfaymebre")(https://github.com/tesfaymebre)
-- [Yakob Solomon]("yakobsolo")(https://github.com/yakobsolo)
-- [Wubshet Zeleke]("wubeZ")(https://github.com/wubeZ)
+- [Tesfamichael Mengste](https://github.com/tesfaymebre)
+- [Yakob Solomon](https://github.com/yakobsolo)
+- [Wubshet Zeleke](https://github.com/wubeZ)
 
 ## Introduction
 
