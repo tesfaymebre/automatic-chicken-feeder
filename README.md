@@ -2,8 +2,8 @@
 
 Collaborators:
 - [Tesfamichael Mengste]("tesfaymebre")(https://github.com/tesfaymebre)
-- [Wubshet Zeleke]("wubeZ")(https://github.com/wubeZ)
 - [Yakob Solomon]("yakobsolo")(https://github.com/yakobsolo)
+- [Wubshet Zeleke]("wubeZ")(https://github.com/wubeZ)
 
 ## Introduction
 
