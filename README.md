@@ -47,9 +47,7 @@ The mobile app contains the following features:
 7. **Profile**: Edit user information and log out.
 
 ##UI pages 
-![Screenshot_20230615-222452](https://github.com/tesfaymebre/automatic-chicken-feeder/assets/95352714/2a137c91-f2a1-4def-ac47-b49e6131f01a)
-
-![Screenshot_20230615-222629](https://github.com/tesfaymebre/automatic-chicken-feeder/assets/95352714/5bf2cb81-79f8-471a-93c3-93eb5c8af84e)
+![Screenshot_20230615-222452](https://github.com/tesfaymebre/automatic-chicken-feeder/assets/95352714/2a137c91-f2a1-4def-ac47-b49e6131f01a)![Screenshot_20230615-222629](https://github.com/tesfaymebre/automatic-chicken-feeder/assets/95352714/5bf2cb81-79f8-471a-93c3-93eb5c8af84e)
 
 ![Screenshot_20230615-153718](https://github.com/tesfaymebre/automatic-chicken-feeder/assets/95352714/59b448c1-f3b0-4799-9b6f-e4c7ab7eed50)
 
